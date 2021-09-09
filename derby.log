@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Sep 01 09:13:30 CST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-017b-9eeb-10cd-00000af8bf88 
+on database directory D:\workspace\stayhopper\metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@4f7bb8df 
+Loaded from file:/D:/workspace/stayhopper/lib/spark-assembly-1.6.3-hadoop2.4.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_181-b13
+user.dir=D:\workspace\stayhopper
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

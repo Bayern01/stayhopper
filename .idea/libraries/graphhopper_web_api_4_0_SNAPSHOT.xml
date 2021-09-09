@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="graphhopper-web-api-4.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../graphhopper/web-api/target/graphhopper-web-api-4.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
